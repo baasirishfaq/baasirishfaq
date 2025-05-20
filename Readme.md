@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Baasir
 **🎓 Computer Science Student @ University of Guelph**  
 **🚀 | Full-Stack Developer |**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in/baasirishfaq)
-[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:bishfaq@uoguelph.ca)
-
 ---
 ## 🛠️ **Skills & Technologies**
 
@@ -72,4 +68,5 @@
 
 ## 📫 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in/baasirishfaq)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:bishfaq@uoguelph.ca)
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Visit-%23FF4088?logo=vercel&logoColor=white&style=for-the-badge)](https://baasirishfaq.github.io)
