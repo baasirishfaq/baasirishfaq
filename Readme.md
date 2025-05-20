@@ -29,7 +29,7 @@
 ## 💼 **Professional Experience**
 
 ### **Software Developer**  
-[![University of Guelph Engineering CoCreCo Club](https://img.shields.io/badge/University_of_Guelph-FF6D00?logo=university&logoColor=white)](https://uoguelph.ca)  
+# University of Guelph Engineering CoCreCo Club  
 *Feb 2025 - Present | Guelph, Canada*  
 
 **Tech Stack**:  
