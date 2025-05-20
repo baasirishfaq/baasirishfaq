@@ -29,7 +29,7 @@
 ## 💼 **Professional Experience**
 
 ### **Software Developer**  
-# University of Guelph Engineering CoCreCo Club  
+### ** University of Guelph Engineering CoCreCo Club **
 *Feb 2025 - Present | Guelph, Canada*  
 
 **Tech Stack**:  
