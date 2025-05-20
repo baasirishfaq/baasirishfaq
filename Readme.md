@@ -34,8 +34,7 @@
 ## 🌟 **Projects**
 
 ### 1. 🦯 **StreetSense** - AI Navigation for Visually Impaired
-[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?logo=youtube)](https://youtube.com/demo-link)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/baasirishfaq/streetsense)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/ElijahDAF/streetsense)
 
 **Tech Stack**:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) 
@@ -50,7 +49,6 @@
 ---
 
 ### 2. 📈 **Stock Price Prediction with LSTM**
-[![Demo](https://img.shields.io/badge/Streamlit_Demo-FF4B4B?logo=streamlit)](https://your-streamlit-app.link)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/baasirishfaq/stock-prediction)
 
 **Tech Stack**:  
