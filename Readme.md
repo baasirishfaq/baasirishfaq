@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Baasir
 **🎓 Computer Science Student @ University of Guelph**  
 **🚀 | Full-Stack Developer |**
+
 ---
 ## 🛠️ **Skills & Technologies**
 
