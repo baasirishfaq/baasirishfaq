@@ -3,7 +3,6 @@
 **🚀 | Full-Stack Developer |**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in/baasirishfaq)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?logo=github)](https://github.com/baasirishfaq)
 [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:bishfaq@uoguelph.ca)
 
 ---
