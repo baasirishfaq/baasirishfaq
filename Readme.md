@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Baasir
-**🎓 Computer Science Student @ University of Guelph**  
-**🚀 | Full-Stack Developer |**
+*🎓 Computer Science Student @ University of Guelph* 🚀 | Full-Stack Developer |*
 
 ---
 ## 🛠️ **Skills & Technologies**
-
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
