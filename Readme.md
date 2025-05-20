@@ -26,7 +26,7 @@
 
 ---
 
-## 💼 **Professional Experience**
+## 💼 **Experience**
 
 ### **Software Developer**  
 ### **University of Guelph Engineering CoCreCo Club**
