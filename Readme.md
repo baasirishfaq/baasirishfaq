@@ -1,71 +1,73 @@
 # 👋 Hi, I'm Baasir
-*🎓 Computer Science Student @ University of Guelph* 🚀 | Full-Stack Developer |
+**🎓 Computer Science Student @ University of Guelph**  
+**🚀 Full-Stack Developer | AI/ML Engineer**
 
----
-## 🛠️ **Skills & Technologies**
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
-
----
-
-## 🌟 **Projects**
-
-### 1. 🦯 **StreetSense** - AI Navigation for Visually Impaired
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/ElijahDAF/streetsense)
-
-**Tech Stack**:  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) 
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv) 
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react)
-
-**Features**:
-- Real-time crosswalk/vehicle detection
-- Voice-guided navigation
-- Developed at **Hack Canada 2025**
-
----
-
-### 2. 📈 **Stock Price Prediction with LSTM**
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/baasirishfaq/stock-prediction)
-
-**Tech Stack**:  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow) 
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-
-**Features**:
-- LSTM neural network
-- Interactive technical analysis
-- Multi-stock comparison
-
----
-
-## 📊 **GitHub Stats**
-![Baasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baasirishfaq&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baasirishfaq&layout=compact&theme=radical)](https://github.com/baasirishfaq)
-
----
-
-## 📫 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in/baasirishfaq)
 [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:bishfaq@uoguelph.ca)
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Visit-%23FF4088?logo=vercel&logoColor=white&style=for-the-badge)](https://baasirishfaq.github.io)
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Visit-%23FF4088?logo=vercel)](https://baasirishfaq.github.io)
+
+---
+
+## 💼 **Experience**
+
+### **Software Developer**  
+[![University of Guelph](https://img.shields.io/badge/University_of_Guelph-FF6D00?logo=university&logoColor=white)](https://uoguelph.ca)  
+*Feb 2025 - Present | Guelph, Ontario (Hybrid)*  
+
+**Tech Stack**:  
+![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) 
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css)  
+**Working on**:
+- image recognition models using Raspberry Pi
+- Built cloud databases with MongoDB Atlas
+- Designed responsive web apps with React.js + Tailwind CSS
+- Collaborated on cross-functional engineering projects
+
+---
+
+## 🛠️ **Technical Skills**
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-Intermediate-007396?logo=java)
+
+### **Web Development**
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?logo=css3)
+
+### **AI/ML & DevOps**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-5C3EE8?logo=opencv)
+![Docker](https://img.shields.io/badge/Docker-Beginner-2496ED?logo=docker)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git)
+
+---
+
+## 🌟 **Featured Projects**
+
+### 1. 🦯 **StreetSense** - AI Navigation for Visually Impaired
+[![Code](https://img.shields.io/badge/Source_Code-GitHub-181717?logo=github)](https://github.com/ElijahDAF/streetsense)  
+**Tech**: Python, OpenCV, React Native  
+- Real-time object detection (95% accuracy)
+- Voice-guided navigation system
+- Hack Canada 2025 Finalist
+
+### 2. 📈 **Stock Price Prediction with LSTM**
+[![Code](https://img.shields.io/badge/Source_Code-GitHub-181717?logo=github)](https://github.com/baasirishfaq/stock-prediction)  
+**Tech**: TensorFlow, Streamlit, Pandas  
+- 4-layer LSTM model (92% historical accuracy)
+- Interactive technical analysis dashboard
+
+---
+
+## 📊 **GitHub Analytics**
+![Baasir's Stats](https://github-readme-stats.vercel.app/api?username=baasirishfaq&show_icons=true&theme=radical&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baasirishfaq&layout=compact&theme=radical&hide_border=true)](https://github.com/baasirishfaq)
+
+---
