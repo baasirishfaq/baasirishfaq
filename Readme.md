@@ -37,7 +37,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) 
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css)  
 **Contributions**:
-- image recognition models using Raspberry Pi
+- image recognition models using Raspberry Pi Computer vision
 - Built cloud databases with MongoDB Atlas
 - Designed responsive web apps with React.js + Tailwind CSS
 - Collaborated on cross-functional engineering projects
