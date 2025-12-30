@@ -81,13 +81,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baasirishfaq&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baasirishfaq&layout=compact&theme=radical&hide_border=true" />
-</p>
+## 📊 **GitHub Stats** ![Baasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baasirishfaq&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baasirishfaq&layout=compact&theme=radical)](https://github.com/baasirishfaq)
 
 ---
 
