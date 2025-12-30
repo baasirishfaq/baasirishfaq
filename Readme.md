@@ -2,6 +2,7 @@
 
 🎓 Computer Science (Co-op) @ University of Guelph  
 💻 Software Developer | Full-Stack | Systems & AI  
+--
 
 Tech Stack
 
