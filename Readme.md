@@ -40,6 +40,9 @@ Tech Stack
 - Building **responsive web apps** with React + Tailwind CSS  
 - Collaborating in **cross-disciplinary engineering teams**
 
+**Tech:** Python · Computer Vision · OpenCv · EasyOCR · RaspberriPi · SQL · React.js · Node.js
+
+
 ---
 
 ## 🚀 Projects
@@ -77,7 +80,9 @@ Tech Stack
 - Multi-stock comparison & technical indicators
 
 **Tech:** TensorFlow · Pandas · Streamlit
---
+
+
+---
 
 ## 🔗 Connect
 
