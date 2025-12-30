@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Baasir
+# 👋 Hi, I'm Baasir
 
 🎓 Computer Science (Co-op) @ University of Guelph  
 💻 Software Developer | Full-Stack | Systems & AI  
@@ -48,6 +48,7 @@
 ### 🤖 Discord AI Summarizer Bot  
 🔗 https://github.com/baasirishfaq/blitz-discord-bot  
 
+- Summarizes long conversations into small action points and summaries 
 - AI-powered chat summarization using **Hugging Face DistilBART**
 - Slash commands, rate limiting, topic-aware summaries
 - Deployed **24/7 on Replit**
@@ -71,6 +72,7 @@
 ### 📈 Stock Price Prediction (LSTM)  
 🔗 https://github.com/baasirishfaq/stock-prediction  
 
+- Predicts stock price and moving average
 - Time-series forecasting using **LSTM neural networks**
 - Interactive dashboards with Streamlit
 - Multi-stock comparison & technical indicators
@@ -81,11 +83,9 @@
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baasirishfaq&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baasirishfaq&layout=compact&theme=radical&hide_border=true" />
 </p>
 
