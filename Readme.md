@@ -19,6 +19,15 @@ My areas of interest are **Full Stack Applications**, **computer vision** and **
  
 ---
 
+## 🎓 Education
+
+**Bachelor of Computing Honors (Co-op) — Computer Science**  
+University of Guelph | Expected Graduation: 2028
+
+**Relevant Coursework:** Data Structures & Algorithms, Object Oriented Programming, Statistics, Linear Algebra, Calculus, Microprocessors
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -62,15 +71,6 @@ My areas of interest are **Full Stack Applications**, **computer vision** and **
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baasirishfaq&theme=radical)
 
 </div>
-
----
-
-## 🎓 Education
-
-**Bachelor of Computing Honors (Co-op) — Computer Science**  
-University of Guelph | Expected Graduation: 2028
-
-**Relevant Coursework:** Data Structures & Algorithms, Object Oriented Programming, Statistics, Linear Algebra, Calculus, Microprocessors
 
 ---
 
