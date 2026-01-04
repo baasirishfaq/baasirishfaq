@@ -4,7 +4,8 @@
 
 ## About Me
 
-I am a Computer Science student specializing in building systems that solve real-world problems. 
+I am a Computer Science student specializing in building systems that solve real-world problems.
+
 My areas of interest are **Full Stack Applications**, **computer vision** and **Software Development**.
 
 ---
