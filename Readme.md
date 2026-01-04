@@ -4,25 +4,27 @@
 
 ## About Me
 
-I'm a Computer Science student specializing in building systems that solve real-world problems. 
+I am a Computer Science student specializing in building systems that solve real-world problems. 
 My areas of interest are **Full Stack Applications**, **computer vision** and **Software Development**.
 
 ---
 
-## 🏆 Achievements & Certifications
+## Work
 
 - Student Developer — **University of Guelph School of Engineering Design and Engineering Club**
 - Participant — **Hack Canada 2025** (StreetSense Project)
-- Awarded a top-level HackerRank Gold Badge in C++
-- 5-star rating on HackerRank
+- Awarded HackerRank Gold Badge in C++
+- 5-star rated coder on HackerRank
 - Deployed 2 production applications
- 
+- Worked as developer on automation of Campus wide book return system
+
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computing Honors (Co-op) — Computer Science**  
-University of Guelph | Expected Graduation: 2028
+**Computer Science - Honors (Co-op)**  
+University of Guelph 
+Expected Graduation: 2028
 
 **Relevant Coursework:** Data Structures & Algorithms, Object Oriented Programming, Statistics, Linear Algebra, Calculus, Microprocessors
 
@@ -76,7 +78,7 @@ University of Guelph | Expected Graduation: 2028
 
 ## Connect
 
-I'm seeking **Software Engineering Co-op opportunities** for **Summer/Fall 2026**.
+open to work: **Software Engineering Co-op opportunities** for **Summer/Fall 2026**.
 
 <div align="center">
 
@@ -91,15 +93,5 @@ I'm seeking **Software Engineering Co-op opportunities** for **Summer/Fall 2026*
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=baasirishfaq&color=brightgreen&style=for-the-badge)
-
-</div>
-
-<div align="center">
-  
-### 🎓 Computer Science Co-op Student @ University of Guelph
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baasirishfaq/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bishfaq@uoguelph.ca)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/baasirishfaq)
 
 </div>
