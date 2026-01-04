@@ -1,25 +1,21 @@
-# Hi, I'm Baasir 👋
+# Hi, I'm Baasir
 
 ---
 
 ## About Me
 
-I'm a Computer Science student specializing in building intelligent systems that solve real-world problems. 
+I'm a Computer Science student specializing in building systems that solve real-world problems. 
 My areas of interest are **Full Stack Applications**, **computer vision** and **Software Development**.
-
-- 🔭 Currently working on **Smart Book Rental System** with computer vision & cloud infrastructure
-- 🌱 Exploring **AI/ML**, **System Design**, and **Cloud Architecture**
-- 💡 Open to work for Summer/Fall 2026
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 💻 Student Developer — **University of Guelph School of Engineering Design and Engineering Club**
-- 🥇 Participant — **Hack Canada 2025** (StreetSense Project)
+- Student Developer — **University of Guelph School of Engineering Design and Engineering Club**
+- Participant — **Hack Canada 2025** (StreetSense Project)
 - Awarded a top-level HackerRank Gold Badge in C++
 - 5-star rating on HackerRank
-- 🚀 Deployed multiple production applications
+- Deployed 2 production applications
  
 ---
 
@@ -29,7 +25,9 @@ My areas of interest are **Full Stack Applications**, **computer vision** and **
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Web & Frameworks
@@ -95,6 +93,7 @@ I'm seeking **Software Engineering Co-op opportunities** for **Summer/Fall 2026*
 ![Profile Views](https://komarev.com/ghpvc/?username=baasirishfaq&color=brightgreen&style=for-the-badge)
 
 </div>
+
 <div align="center">
   
 ### 🎓 Computer Science Co-op Student @ University of Guelph
