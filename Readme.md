@@ -3,7 +3,6 @@
 <div align="center">
   
 ### 🎓 Computer Science Co-op Student @ University of Guelph
-### 💻 Full-Stack Developer | Systems Engineering | AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baasirishfaq/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bishfaq@uoguelph.ca)
@@ -13,13 +12,14 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate Computer Science student specializing in building intelligent systems that solve real-world problems. From **computer vision on edge devices** to **full-stack web applications**.
+I'm a Computer Science student specializing in building intelligent systems that solve real-world problems. 
+My areas of interest are **Full Stack Applications**, **computer vision** and **Software Development**.
 
 - 🔭 Currently working on **Smart Book Rental System** with computer vision & cloud infrastructure
 - 🌱 Exploring **AI/ML**, **System Design**, and **Cloud Architecture**
-- 💡 Interested in **Software Engineering Co-op opportunities** for Summer/Fall 2026
+- 💡 Open to work for Summer/Fall 2026
 
 ---
 
@@ -53,90 +53,6 @@ I'm a passionate Computer Science student specializing in building intelligent s
 
 ---
 
-## 💼 Experience
-
-### 🔧 Software Developer | University of Guelph – Engineering CoCreCo Club
-**Feb 2025 – Present | Guelph, ON**
-
-Building a **campus-wide Smart Book Rental System** for engineering students
-
-- 📷 Developing **computer vision systems on Raspberry Pi** for automated book scanning & inventory management
-- ☁️ Architecting **cloud databases** with MongoDB Atlas for scalable data storage
-- 🎨 Creating **responsive web interfaces** using React + Tailwind CSS
-- 🤝 Collaborating with **cross-disciplinary engineering teams** in Agile environment
-
-**Tech Stack:** `Python` `Computer Vision` `OpenCV` `EasyOCR` `Raspberry Pi` `MongoDB` `React.js` `Node.js`
-
----
-
-## 🎯 Featured Projects
-
-### 🎓 Rate My Course
-
-A comprehensive course review platform for university students to make informed decisions about their academic journey.
-
-**What it does:**
-- ✅ Students can **rate and review courses** with detailed feedback
-- 🔍 **Search and filter** courses by department, difficulty, and ratings
-- 📊 View **aggregate ratings** and professor insights
-- ⚡ Real-time updates with **Firestore**
-
-**Impact:** Helping students make better course selection decisions with peer insights
-
-**Tech Stack:** `React` `Firebase` `Firestore` `Tailwind CSS` `JavaScript`
-
----
-
-### 🤖 Discord AI Summarizer Bot
-**🔗 [GitHub](https://github.com/baasirishfaq/blitz-discord-bot)**
-
-An intelligent Discord bot that transforms lengthy conversations into actionable summaries using advanced NLP.
-
-**Key Features:**
-- 💬 Summarizes long Discord conversations into concise action points
-- 🧠 AI-powered using **Hugging Face DistilBART** transformer model
-- ⚡ Custom slash commands with rate limiting for scalability
-- 🎯 Context-aware, topic-specific summaries
-- 🚀 Deployed and tested on real servers
-
-**Impact:** Saves hours of reading time for busy Discord communities
-
-**Tech Stack:** `Python` `discord.py` `Hugging Face API` `DistilBART` `Replit`
-
----
-
-### 🦯 StreetSense — AI Navigation Assistant
-**🔗 [GitHub](https://github.com/ElijahDAF/streetsense) | 🏆 Built at Hack Canada 2025**
-
-An accessibility-focused mobile app providing real-time navigation assistance for visually impaired users.
-
-**Key Features:**
-- 🚦 Real-time **object & crosswalk detection** using computer vision
-- 📱 On-device processing with **OpenCV** for low latency
-- 🔊 **Voice-guided navigation** with audio cues
-- ♿ Designed with accessibility-first principles
-
-**Impact:** Empowering visually impaired individuals with independent navigation
-
-**Tech Stack:** `Python` `OpenCV` `React Native` `TensorFlow Lite` `Audio Processing`
-
----
-
-### 📈 Stock Price Prediction (LSTM)
-**🔗 [GitHub](https://github.com/baasirishfaq/stock-prediction)**
-
-A time-series forecasting application using deep learning to predict stock prices and market trends.
-
-**Key Features:**
-- 📊 **LSTM neural network** for accurate time-series prediction
-- 📉 Predicts stock prices and moving averages
-- 🎨 Interactive **Streamlit dashboards** for data visualization
-- 🔀 Multi-stock comparison with technical indicators (RSI, MACD)
-
-**Tech Stack:** `TensorFlow` `Keras` `Pandas` `NumPy` `Streamlit` `yfinance`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -153,24 +69,26 @@ A time-series forecasting application using deep learning to predict stock price
 
 ## 🎓 Education
 
-**Bachelor of Computing (Co-op) — Computer Science**  
-University of Guelph | Expected Graduation: 2027
+**Bachelor of Computing Honors (Co-op) — Computer Science**  
+University of Guelph | Expected Graduation: 2028
 
-**Relevant Coursework:** Data Structures & Algorithms, Object Oriented Programming, Statstics, Linear Algebra, Calculus, Microprocessors
+**Relevant Coursework:** Data Structures & Algorithms, Object Oriented Programming, Statistics, Linear Algebra, Calculus, Microprocessors
 
 ---
 
 ## 🏆 Achievements & Certifications
 
+- 💻 Student Developer — **University of Guelph School of Engineering Design and Engineering Club**
 - 🥇 Participant — **Hack Canada 2025** (StreetSense Project)
-- 💻 Active member — **University of Guelph Engineering Design and Engineering Club**
+- Awarded a top-level HackerRank Gold Badge in C++
+- 5-star rating on HackerRank
 - 🚀 Deployed multiple production applications
-
+ 
 ---
 
 ## Connect
 
-I'm open to work **Software Engineering Co-op opportunities** for **Summer/Fall 2026**.
+I'm seeking **Software Engineering Co-op opportunities** for **Summer/Fall 2026**.
 
 <div align="center">
 
