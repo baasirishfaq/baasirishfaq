@@ -20,7 +20,7 @@ My areas of interest are **Full Stack Applications**, **computer vision** and **
 - Built a Discord conversation bot allowing users to condense 1,500+ messages into a summary
 - Built a “Rate My Course” web app allowing university students to review and rate courses
 - Built StreetSense, a computer vision project allowing visually impaired users to navigate surroundings using a mobile phone and text-to-speech feedback  
-  *(Presented at Hack Canada 2025)*
+  *↳(Presented at Hack Canada 2025)*
 
 
 ---
