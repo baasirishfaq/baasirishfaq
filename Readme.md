@@ -1,15 +1,5 @@
 # Hi, I'm Baasir 👋
 
-<div align="center">
-  
-### 🎓 Computer Science Co-op Student @ University of Guelph
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baasirishfaq/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bishfaq@uoguelph.ca)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/baasirishfaq)
-
-</div>
-
 ---
 
 ## About Me
@@ -21,6 +11,16 @@ My areas of interest are **Full Stack Applications**, **computer vision** and **
 - 🌱 Exploring **AI/ML**, **System Design**, and **Cloud Architecture**
 - 💡 Open to work for Summer/Fall 2026
 
+---
+
+## 🏆 Achievements & Certifications
+
+- 💻 Student Developer — **University of Guelph School of Engineering Design and Engineering Club**
+- 🥇 Participant — **Hack Canada 2025** (StreetSense Project)
+- Awarded a top-level HackerRank Gold Badge in C++
+- 5-star rating on HackerRank
+- 🚀 Deployed multiple production applications
+ 
 ---
 
 ## 🛠️ Tech Stack
@@ -76,16 +76,6 @@ University of Guelph | Expected Graduation: 2028
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 💻 Student Developer — **University of Guelph School of Engineering Design and Engineering Club**
-- 🥇 Participant — **Hack Canada 2025** (StreetSense Project)
-- Awarded a top-level HackerRank Gold Badge in C++
-- 5-star rating on HackerRank
-- 🚀 Deployed multiple production applications
- 
----
-
 ## Connect
 
 I'm seeking **Software Engineering Co-op opportunities** for **Summer/Fall 2026**.
@@ -103,5 +93,14 @@ I'm seeking **Software Engineering Co-op opportunities** for **Summer/Fall 2026*
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=baasirishfaq&color=brightgreen&style=for-the-badge)
+
+</div>
+<div align="center">
+  
+### 🎓 Computer Science Co-op Student @ University of Guelph
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baasirishfaq/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bishfaq@uoguelph.ca)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/baasirishfaq)
 
 </div>
