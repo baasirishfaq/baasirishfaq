@@ -10,14 +10,18 @@ My areas of interest are **Full Stack Applications**, **computer vision** and **
 
 ---
 
-## Work
+## About My Work
 
-- Student Developer — **University of Guelph School of Engineering Design and Engineering Club**
-- Participant — **Hack Canada 2025** (StreetSense Project)
-- Awarded HackerRank Gold Badge in C++
-- 5-star rated coder on HackerRank
+- Student Developer — University of Guelph School of Engineering Design and Engineering Club
 - Deployed 2 production applications
-- Worked as developer on automation of Campus wide book return system
+- Worked as a developer on the automation of a campus-wide book return system
+- Awarded HackerRank Gold Badge in C++
+- 5 star rated coder on HackerRank
+- Built a Discord conversation bot allowing users to condense 1,500+ messages into a summary
+- Built a “Rate My Course” web app allowing university students to review and rate courses
+- Built StreetSense, a computer vision project allowing visually impaired users to navigate surroundings using a mobile phone and text-to-speech feedback  
+  *(Presented at Hack Canada 2025)*
+
 
 ---
 
